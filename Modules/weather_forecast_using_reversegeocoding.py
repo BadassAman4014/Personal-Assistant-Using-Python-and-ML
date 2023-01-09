@@ -1,4 +1,5 @@
-api_key = "6a2de929238ef3fff9d36e712fc8785c"
+api_key = "Enter Your Own Api Key" 
+#you can get it from this website https://openweathermap.org/api
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 city_name = takeCommand().lower()
